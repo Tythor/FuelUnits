@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D0FC1060-5A63-4D96-A151-32349749AE54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FuelUnits/Game1.cs">
+    <Files>
+      <File FileName="FuelUnits/Game1.cs" Line="91" Column="58" />
+      <File FileName="Android/Assets/AboutAssets.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FuelUnits.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
