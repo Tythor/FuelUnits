@@ -10,3 +10,4 @@
 /Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhoneSimulator/Debug/FuelUnits.iOS.csproj.CoreCompileInputs.cache
 /Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhoneSimulator/Debug/FuelUnits.iOS.exe
 /Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhoneSimulator/Debug/FuelUnits.iOS.pdb
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhoneSimulator/Debug/FuelUnits.iOS.csprojResolveAssemblyReference.cache

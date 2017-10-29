@@ -1,0 +1,1 @@
+After pulling the project, rebuild the project under: Build -> Rebuild All

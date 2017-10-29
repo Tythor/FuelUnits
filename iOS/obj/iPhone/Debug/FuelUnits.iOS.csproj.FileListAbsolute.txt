@@ -1,0 +1,12 @@
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/bin/iPhone/Debug/FuelUnits.iOS.exe
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/bin/iPhone/Debug/FuelUnits.iOS.pdb
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/bin/iPhone/Debug/MonoGame.Framework.dll
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/bin/iPhone/Debug/MonoGame.Framework.xml
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/optimized/Default.png
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/optimized/GameThumbnail.png
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/optimized/
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/FuelUnits.iOS.csproj.CoreCompileInputs.cache
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/FuelUnits.iOS.exe
+/Users/Tyler/VisualStudioProjects/FuelUnits/iOS/obj/iPhone/Debug/FuelUnits.iOS.pdb
