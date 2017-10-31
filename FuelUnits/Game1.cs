@@ -66,7 +66,6 @@ namespace FuelUnits
 				Exit();
 #endif
 			// TODO: Add your update logic here
-            Console.Write("Updating");
 
 			base.Update(gameTime);
 		}
